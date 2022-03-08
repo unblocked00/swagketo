@@ -236,3 +236,7 @@
     <td><a href="https://poway.instructure.com/courses/112428/assignments/1943429">Project Approval</a></td>
   </tr>
 </table>
+
+
+## Proj Contributors 
+### Ava Brooks, Crystal Widjaja, Sarah Xie, Risa Iwazaki
