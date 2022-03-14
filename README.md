@@ -1,5 +1,8 @@
 Welcome to the swagketo wiki!
 * Web Planning: [link](https://unblocked00.github.io/swagketo/web)
+* Wiki: [link](https://github.com/avabrooks/swagketo/wiki)
+* Team roles: [link](https://unblocked00.github.io/swagketo/roles)
+
 # Team Roles: 
 * Deployment Manager: Risa 
 * Github Officer: Crystal Widjaja
