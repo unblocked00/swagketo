@@ -24,9 +24,9 @@
 ### Tangibles:
 * [Design Plan]()
 
+## Tri 3 TimeBox:
+| Week | Theme | PBL | Ticket |
+| ------ | ----- | ----- | ---- |
+| 0| Teams, Plans, Jobs | GitHub Pages | [Ticket](https://github.com/avabrooks/swagketo/issues/1)
+| 1| Data Structures Challenge 1 | Project Set Up | [Ticket](https://github.com/avabrooks/avarepository/issues/9)
 
-## Individual Repos:
-* [Ava](https://github.com/avabrooks/avarepository)
-* [Sarah](https://github.com/sarahwxie/csatrimester3)
-* [Risa](https://github.com/risaiwazaki/personaltech/wiki)
-* [Crystal](https://github.com/crystalwidjaja/personaltech)
