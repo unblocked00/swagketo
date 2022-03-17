@@ -3,11 +3,12 @@
 * Wiki: [link](https://github.com/avabrooks/swagketo/wiki)
 
 ## Team Roles: 
-* Deployment Manager: Risa 
-* Github Officer: Crystal Widjaja
-* Technical Officer: Sarah Xie
-* Design Manager: Ava Brooks
-* Project Owner: Ava Brooks
+| Name | Github Profile | Role | Individual Repo |
+|  --- |  ---           | --- | ---              | 
+| Crystal | [@crystalwidjaja](https://github.com/crystalwidjaja)  | Github Officer | [Crystal](https://github.com/crystalwidjaja/personaltech) | 
+| Risa | [@risaiwazaki](https://github.com/risaiwazaki) | Deployment Manager | [Risa](https://github.com/risaiwazaki/personaltech/wiki) |
+| Ava | [@avabrooks](https://github.com/avabrooks)  | Design Manager & Project Owner | [Ava](https://github.com/avabrooks/avarepository) |
+| Sarah | [@sarahwxie](https://github.com/sarahwxie)  | Technical Officer | [Sarah](https://github.com/sarahwxie/csatrimester3) |
 
 ## Initial Requirements:
 **Sponsor:** Mr. Eckman(Del Norte teacher)
